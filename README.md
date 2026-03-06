@@ -21,6 +21,13 @@ Historical stock price data for Reliance and TCS.
 - Seaborn
 - Plotly
 
+
+##Insights 
+
+• TCS shows consistent long-term growth.
+• Reliance shows higher volatility.
+• Both stocks have strong long-term returns.
+
 ## Project Workflow
 1. Data Collection
 2. Data Cleaning
