@@ -24,9 +24,9 @@ Historical stock price data for Reliance and TCS.
 
 ## Insights 
 
-• TCS shows consistent long-term growth.
-• Reliance shows higher volatility.
-• Both stocks have strong long-term returns.
+1• TCS shows consistent long-term growth.
+2• Reliance shows higher volatility.
+3• Both stocks have strong long-term returns.
 
 ## Project Workflow
 1. Data Collection
