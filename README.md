@@ -11,7 +11,7 @@ This project analyzes 30 years of stock price trends for Reliance Industries and
 - Visualize price movement and volatility
 
 ## Dataset
-Historical stock price data for Reliance and TCS.
+Historical stock price data for Reliance and TCS over 3 Decades.
 
 ## Tools Used
 - Python
