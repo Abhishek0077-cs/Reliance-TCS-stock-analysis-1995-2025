@@ -38,7 +38,7 @@ Historical stock price data for Reliance and TCS over 3 Decades.
 5. Insights
 
 # Author 
- Hii, Abhishek Kumar Singh.
+ Hii, I am Abhishek Kumar Singh.
 
 An Aspiring data scientist, interested in data visualization and real world dataset 
 GitHub:
